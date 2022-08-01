@@ -1,0 +1,122 @@
+body {
+text-align: center;
+padding: 0;
+margin: 0;
+}
+
+.datos-generales {
+  background-color:#EAF6F6;
+  margin-bottom: 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 20%;
+  border-color: rgb(61, 160, 130);
+}
+
+h1 {
+  color: #66BFBF;
+  font-style: normal;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-size: 5rem;
+}
+
+h2 {
+  font-family: "Edu NSW ACT Foundation", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 3rem;
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+
+p {
+  color: #5c77d1;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  font-size: 1,5rem;
+}
+
+li{
+  color: #243A73;
+  font-style: normal;
+  font-family: optima;
+  text-align: center;
+}
+
+dd {
+  color: #A5BECC;
+  font-style: normal;
+  font-family: optima;
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  margin:auto;
+}
+
+.foto{
+  border-radius: 999px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 6rem;
+}
+.bottom-cloud{
+  position: absolute;
+}
+
+.ocupacion {
+  text-align: center;
+}
+
+a {
+  color: #11999E;
+  font-family: font-family:'Quicksand', sans-serif;
+}
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  left: 25%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.textil {
+  float: left;
+  margin: 100px 50px 100px auto;
+}
+
+.developer {
+  float: right;
+  margin: 100px auto 100px 50px;
+}
+
+button {
+  border-radius: 8px;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  font-family: Arial;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 100px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+
+}
